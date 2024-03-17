@@ -5,8 +5,8 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](280375302927024128)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ss.allex/)
 
-- 💻 Sistemas de Informação - [UnDF](https://www.universidade.df.gov.br);
-- 📚 Análise e Desenvolvimento de Sistemas - [UCB](ucb.catolica.edu.br);
+- 💻 Cursando Sistemas de Informação na [UnDF](https://www.universidade.df.gov.br);
+- 📚 Quase acabando de me graduar em Análise e Desenvolvimento de Sistemas pela [UCB](ucb.catolica.edu.br);
 - 🌱 Estudando: HTML, CSS, Javascript, Java.
 - 🏹 Fun fact: Talvez eu seja obcecado por jogos vorazes. :D
 
