@@ -8,7 +8,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Atualmente sou um programador/desenvolvedor Web (sério, eu adoro trabalhar com interfaces) diretamente de <b>Brasília</b> 」
+    「 Atualmente sou um programador/desenvolvedor Web diretamente de <b>Brasília</b> 」
     <br>
     <br>
   </samp>
@@ -34,16 +34,17 @@
  # Sobre mim...
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="https://raw.githubusercontent.com/httplex/httplex/main/cat.gif" alt="Coding gif" />
   
- 📚 &emsp; Cursando Sistemas de Informação na [UnDF](https://www.universidade.df.gov.br) <br/><br/>
- ✌️ &emsp; Quase me formando em Análise e Desenvolvimento de Sistemas pela [UCB](ucb.catolica.edu.br) <br/><br/>
- 👨‍💻 &emsp; Atualmente focado em: <br/><br/>
-
- 
+ 📚 &emsp; Cursando Sistemas de Informação na [UnDF](https://www.universidade.df.gov.br); <br/><br/>
+ ✌️ &emsp; Quase me formando em Análise e Desenvolvimento de Sistemas pela [UCB](ucb.catolica.edu.br); <br/><br/>
+ 👨‍💻 &emsp; Apaixonado pelo processo de criação de interfaces; <br/><br/>
+ 📖 &emsp; Leitor e escritor de poemas nas horas vagas.
 
 </p>
 
+<br/>
+<br/>
 <br/>
 
 <!--
