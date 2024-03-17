@@ -7,7 +7,7 @@
 
 - 💻 Sistemas de Informação - [UnDF](https://www.universidade.df.gov.br);
 - 📚 Análise e Desenvolvimento de Sistemas - [UCB](ucb.catolica.edu.br);
-- 🌱 Estudando: HTML, CSS, Javascript, Java, C.
+- 🌱 Estudando: HTML, CSS, Javascript, Java.
 - 🏹 Fun fact: Talvez eu seja obcecado por jogos vorazes. :D
 
 ## O que ando aprontando 🤖:
