@@ -1,28 +1,57 @@
-### Oi, meu nome é Alex!! 😃
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Olá!, me chamo Alex aka
+                <b><a target="_blank" href="https://github.com/httplex">httplex</a></b>
+        </samp>
+</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsilvatec/)
-[![E-MAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](httplex404@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](280375302927024128)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ss.allex/)
+<p align="center"> 
+  <samp>
+    <br>
+    「 Atualmente sou um programador/desenvolvedor Web (sério, eu adoro trabalhar com interfaces) diretamente de <b>Brasília</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
-- 💻 Cursando Sistemas de Informação na [UnDF](https://www.universidade.df.gov.br);
-- 📚 Quase acabando de me graduar em Análise e Desenvolvimento de Sistemas pela [UCB](ucb.catolica.edu.br);
-- 🌱 Estudando: HTML, CSS, Javascript, Java.
-- 🏹 Fun fact: Talvez eu seja obcecado por jogos vorazes. :D
+<p align="center">
+ <a href="https://www.linkedin.com/in/alexsilvatec/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="httplex"/>
+ </a>
+ <a href="httplex404@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>
+ <a href="https://www.instagram.com/ss.allex/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="httplex" />
+ </a> 
+ <a href="280375302927024128" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="httplex"  />
+  </a> 
+</p>
+<br />
 
-## O que ando aprontando 🤖:
+<!-- About Section -->
+ # Sobre mim...
+ 
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
+ 📚 &emsp; Cursando Sistemas de Informação na [UnDF](https://www.universidade.df.gov.br) <br/><br/>
+ ✌️ &emsp; Quase me formando em Análise e Desenvolvimento de Sistemas pela [UCB](ucb.catolica.edu.br) <br/><br/>
+ 👨‍💻 &emsp; Atualmente focado em: <br/><br/>
 
-<div align = "left">  
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httplex&show_icons=true&theme=tokyonight&count_private=true"/>
-</div>
+ 
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typecript" alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-</div>
+</p>
+
+<br/>
+
+<!--
+  
+  <img whidth="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img whidth="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img whidth="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img whidth="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img whidth="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />     
+
+  -->
