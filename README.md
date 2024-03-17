@@ -1,4 +1,4 @@
-### Oii! Meu nome é Alex ;D
+### Oi, meu nome é Alex!! 😃
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsilvatec/)
 [![E-MAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](httplex404@gmail.com)
