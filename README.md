@@ -8,7 +8,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Atualmente sou um programador/desenvolvedor Web diretamente de <b>Brasília</b> 」
+    「 Atualmente sou programador/desenvolvedor Web diretamente de <b>Brasília</b> 」
     <br>
     <br>
   </samp>
