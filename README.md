@@ -63,31 +63,33 @@
 
 ## Principais Projetos ~
 
-<div style="display: flex; justify-content: center;">
-  <div style="margin: 10px;">
-    <a href="https://github.com/httplex/JavaTCC-ETB">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=JavaTCC-ETB" style="width: 300px;" />
-    </a>
-  </div>
-  <div style="margin: 10px;">
-    <a href="https://github.com/D-O-S-T/GerenciamentoAcademico">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=D-O-S-T&repo=GerenciamentoAcademico" style="width: 300px;" />
-    </a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/httplex/JavaTCC-ETB">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=JavaTCC-ETB" style="width: 500px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/D-O-S-T/GerenciamentoAcademico">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=D-O-S-T&repo=GerenciamentoAcademico" style="width: 500px;" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/httplex/PortfolioWeb">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=PortfolioWeb" style="width: 500px;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/httplex/projetoConsorcio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=projetoConsorcio" style="width: 500px;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex; justify-content: center;">
-  <div style="margin: 10px;">
-    <a href="https://github.com/httplex/PortfolioWeb">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=PortfolioWeb" style="width: 300px;" />
-    </a>
-  </div>
-  <div style="margin: 10px;">
-    <a href="https://github.com/httplex/projetoConsorcio">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=projetoConsorcio" style="width: 300px;" />
-    </a>
-  </div>
-</div>
 
 
 
