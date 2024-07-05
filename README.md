@@ -63,7 +63,7 @@
 
 ## Principais Projetos ~
 
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="margin: 10px;">
     <a href="https://github.com/httplex/JavaTCC-ETB">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=JavaTCC-ETB" style="width: 300px;" />
@@ -85,8 +85,6 @@
     </a>
   </div>
 </div>
-
-
 
 
 <p align="left">
