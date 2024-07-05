@@ -63,10 +63,29 @@
 
 ## Principais Projetos ~
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=JavaTCC-ETB)](https://github.com/httplex/JavaTCC-ETB)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D-O-S-T&repo=GerenciamentoAcademico)](https://github.com/D-O-S-T/GerenciamentoAcademico)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=PortfolioWeb)](https://github.com/httplex/PortfolioWeb)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=projetoConsorcio)](https://github.com/httplex/projetoConsorcio)
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="margin: 10px;">
+    <a href="https://github.com/httplex/JavaTCC-ETB">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=JavaTCC-ETB" style="width: 300px;" />
+    </a>
+  </div>
+  <div style="margin: 10px;">
+    <a href="https://github.com/D-O-S-T/GerenciamentoAcademico">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=D-O-S-T&repo=GerenciamentoAcademico" style="width: 300px;" />
+    </a>
+  </div>
+  <div style="margin: 10px;">
+    <a href="https://github.com/httplex/PortfolioWeb">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=PortfolioWeb" style="width: 300px;" />
+    </a>
+  </div>
+  <div style="margin: 10px;">
+    <a href="https://github.com/httplex/projetoConsorcio">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=projetoConsorcio" style="width: 300px;" />
+    </a>
+  </div>
+</div>
+
 
 
 
