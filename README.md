@@ -66,7 +66,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=PortfolioWeb)](https://github.com/httplex/PortfolioWeb)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=JavaTCC-ETB)](https://github.com/httplex/JavaTCC-ETB)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=projetoConsorcio)](https://github.com/httplex/projetoConsorcio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=ProjetoHerancaJAVA)](https://github.com/httplex/ProjetoHerancaJAVA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D-O-S-T&repo=GerenciamentoAcademico)]([https://github.com/httplex/ProjetoHerancaJAVA](https://github.com/D-O-S-T/GerenciamentoAcademico))
 
 <p align="left">
   <a href="https://github.com/httplex?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
