@@ -63,7 +63,7 @@
 
 ## Principais Projetos ~
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex; justify-content: center;">
   <div style="margin: 10px;">
     <a href="https://github.com/httplex/JavaTCC-ETB">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=JavaTCC-ETB" style="width: 300px;" />
@@ -74,6 +74,9 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=D-O-S-T&repo=GerenciamentoAcademico" style="width: 300px;" />
     </a>
   </div>
+</div>
+
+<div style="display: flex; justify-content: center;">
   <div style="margin: 10px;">
     <a href="https://github.com/httplex/PortfolioWeb">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=PortfolioWeb" style="width: 300px;" />
@@ -85,6 +88,7 @@
     </a>
   </div>
 </div>
+
 
 
 <p align="left">
