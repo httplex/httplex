@@ -61,6 +61,8 @@
 ![JDK](https://img.shields.io/badge/JDK-21-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&labelColor=black&logo=spring-boot&logoColor=6DB33F)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=003B57)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
