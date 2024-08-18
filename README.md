@@ -119,9 +119,11 @@
 </a>
 <br/>
 
+## Um pouco do meu gosto musical...
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=22e22x7jjoj2byr36maag7q7y" alt="Alt text">
 </div>
+
 
 
 
