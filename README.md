@@ -48,24 +48,21 @@
 <br/>
 
 ## Aprendendo e aprimorando:
-
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)
-![JDK](https://img.shields.io/badge/JDK-21-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&labelColor=black&logo=spring-boot&logoColor=6DB33F)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=003B57)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="Javascript">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031" alt="Angular">
+  <img src="https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" alt="Nodejs">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6" alt="CSS3">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396" alt="Java">
+  <img src="https://img.shields.io/badge/JDK-21-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396" alt="JDK">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&labelColor=black&logo=spring-boot&logoColor=6DB33F" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1" alt="MySQL">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=003B57" alt="SQLite">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</div>
 
 ## Principais Projetos ~
 
@@ -101,35 +98,33 @@
   <a href="https://github.com/httplex?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
-<br/>
 <hr/>
 <br/>
 
-<div>
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
   <!-- Stats card -->
-  <a href="https://github.com/httplex">
+  <a href="https://github.com/httplex" style="text-decoration: none; display: inline-block; font-size: 0; line-height: 0;">
     <img 
       alt="httplex's GitHub Stats" 
       src="https://github-readme-stats.vercel.app/api?username=httplex&rank_icon=github&theme=dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
       height="192px" 
-      width="49.5%"
+      width="49%"
     />
   </a>
 
   <!-- Top Languages card -->
-  <a href="https://github.com/httplex">
+  <a href="https://github.com/httplex" style="text-decoration: none; display: inline-block; font-size: 0; line-height: 0;">
     <img 
       alt="httplex's Top Languages" 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=httplex&langs_count=8&layout=compact&theme=dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=httplex&layout=compact&theme=dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
       height="192px" 
-      width="49.5%"
+      width="49%"
     />
   </a>
 </div>
 
-<br/>
-
-## Um pouco do meu gosto musical...
+<hr>
+<img align="right" width="350" src="https://media.tenor.com/15YUsMWt4FEAAAAi/music.gif" alt="cat listening music gif" />
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=22e22x7jjoj2byr36maag7q7y" alt="Alt text">
 </div>
