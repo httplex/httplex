@@ -51,11 +51,11 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="Javascript">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031" alt="Angular">
-  <img src="https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" alt="Nodejs">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E" alt="Figma">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6" alt="CSS3">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396" alt="Java">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/JDK-21-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396" alt="JDK">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&labelColor=black&logo=spring-boot&logoColor=6DB33F" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB" alt="Python">
@@ -63,6 +63,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=003B57" alt="SQLite">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
+
 
 ## Principais Projetos ~
 
