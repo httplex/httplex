@@ -8,7 +8,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Desenvolvedor Web tentando me aprofundar em Angular 」
+    「 Desenvolvedor Web 」
     <br>
     <br>
   </samp>
