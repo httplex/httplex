@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Olá!, me chamo Alex aka
-                <b><a target="_blank" href="https://github.com/httplex">httplex</a></b>
+        <samp>&gt; Fala!
+                <b><a target="_blank" href="https://github.com/httplex">httplex</a></b> aqui. :D
         </samp>
 </h3>
 
