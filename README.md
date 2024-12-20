@@ -73,24 +73,24 @@
   <tr>
     <td>
       <a href="https://github.com/D-O-S-T/GerenciamentoAcademico">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=D-O-S-T&repo=GerenciamentoAcademico&theme=dark" style="width: 500px;" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=D-O-S-T&repo=GerenciamentoAcademico&theme=dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" style="width: 500px;" />
       </a>
     </td>
     <td>
       <a href="https://github.com/httplex/JavaTCC-ETB">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=JavaTCC-ETB&theme=dark" style="width: 500px;" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=JavaTCC-ETB&theme=dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" style="width: 500px;" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/httplex/PortfolioWeb">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=PortfolioWeb&theme=dark" style="width: 500px;" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=PortfolioWeb&theme=dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" style="width: 500px;" />
       </a>
     </td>
     <td>
       <a href="https://github.com/httplex/projetoConsorcio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=projetoConsorcio&theme=dark" style="width: 500px;" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=httplex&repo=projetoConsorcio&theme=dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" style="width: 500px;" />
       </a>
     </td>
   </tr>
@@ -105,11 +105,28 @@
 <hr/>
 <br/>
 
-<a> 
-    <a href="https://github.com/httplex"><img alt="httplex's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=httplex&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/httplex"><img alt="httplex's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=httplex&langs_count=8&layout=compact&theme=dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+<div>
+  <!-- Stats card -->
+  <a href="https://github.com/httplex">
+    <img 
+      alt="httplex's GitHub Stats" 
+      src="https://github-readme-stats.vercel.app/api?username=httplex&rank_icon=github&theme=dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
+      height="192px" 
+      width="49.5%"
+    />
+  </a>
+
+  <!-- Top Languages card -->
+  <a href="https://github.com/httplex">
+    <img 
+      alt="httplex's Top Languages" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=httplex&langs_count=8&layout=compact&theme=dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
+      height="192px" 
+      width="49.5%"
+    />
+  </a>
+</div>
+
 <br/>
 
 ## Um pouco do meu gosto musical...
