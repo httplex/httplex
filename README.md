@@ -63,6 +63,8 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=003B57" alt="SQLite">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
+<hr>
+<br>
 
 <p align="left">
   <a href="https://github.com/httplex?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -70,28 +72,6 @@
 
 <hr/>
 <br/>
-
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
-  <!-- Stats card -->
-  <a href="https://github.com/httplex" style="text-decoration: none; display: inline-block; font-size: 0; line-height: 0;">
-    <img 
-      alt="httplex's GitHub Stats" 
-      src="https://github-readme-stats.vercel.app/api?username=httplex&rank_icon=github&theme=dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
-      height="192px" 
-      width="49%"
-    />
-  </a>
-
-  <!-- Top Languages card -->
-  <a href="https://github.com/httplex" style="text-decoration: none; display: inline-block; font-size: 0; line-height: 0;">
-    <img 
-      alt="httplex's Top Languages" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=httplex&layout=compact&theme=dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
-      height="192px" 
-      width="49%"
-    />
-  </a>
-</div>
 
 <hr>
 <img align="right" width="350" src="https://media.tenor.com/15YUsMWt4FEAAAAi/music.gif" alt="cat listening music gif" />
