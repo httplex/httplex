@@ -36,10 +36,10 @@
 <p>
  <img align="right" width="350" src="https://raw.githubusercontent.com/httplex/httplex/main/cat.gif" alt="Coding gif" />
   
- 📚 &emsp; Cursando Sistemas de Informação na [UnDF](https://www.universidade.df.gov.br); <br/><br/>
- ✌️ &emsp; Formado em Análise e Desenvolvimento de Sistemas pela [UCB](ucb.catolica.edu.br); <br/><br/>
- 👨‍💻 &emsp; Um Dev Web que gosta de sofrer no front; <br/><br/>
- 📖 &emsp; Leitor de mangás e jogador de lol.
+ 📚 &emsp; Cursando Sistemas de Informação na [UnDF](https://www.universidade.df.gov.br) <br/><br/>
+ ✌️ &emsp; Formado em Análise e Desenvolvimento de Sistemas pela [UCB](ucb.catolica.edu.br) <br/><br/>
+ 👨‍💻 &emsp; Aprendendo a lidar comm Python <br/><br/>
+ 📖 &emsp; Comecei uma pós em Engenharia de Sof3tware recentemente :p
 
 </p>
 
@@ -66,8 +66,6 @@
 <hr>
 <br>
 <br/>
-
-<hr>
 <img align="right" width="350" src="https://media.tenor.com/15YUsMWt4FEAAAAi/music.gif" alt="cat listening music gif" />
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=22e22x7jjoj2byr36maag7q7y" alt="Alt text">
