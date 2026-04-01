@@ -39,7 +39,7 @@
  📚 &emsp; Cursando Sistemas de Informação na [UnDF](https://www.universidade.df.gov.br) <br/><br/>
  ✌️ &emsp; Formado em Análise e Desenvolvimento de Sistemas pela [UCB](ucb.catolica.edu.br) <br/><br/>
  👨‍💻 &emsp; Aprendendo a lidar comm Python <br/><br/>
- 📖 &emsp; Comecei uma pós em Engenharia de Sof3tware recentemente :p
+ 📖 &emsp; Comecei uma pós em Engenharia de Software recentemente :p [Faculdade Líbano](https://libanoeducacional.com.br/)
 
 </p>
 
