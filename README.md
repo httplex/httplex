@@ -8,7 +8,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Desenvolvedor Web 」
+    「 Analista de Dados 」
     <br>
     <br>
   </samp>
@@ -20,10 +20,6 @@
  </a>
  <a href="httplex404@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
- </a>
- <a href="https://www.instagram.com/ss.allex/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="httplex" />
- </a> 
  <a href="280375302927024128" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="httplex"  />
   </a> 
@@ -38,8 +34,8 @@
   
  📚 &emsp; Cursando Sistemas de Informação na [UnDF](https://www.universidade.df.gov.br) <br/><br/>
  ✌️ &emsp; Formado em Análise e Desenvolvimento de Sistemas pela [UCB](ucb.catolica.edu.br) <br/><br/>
- 👨‍💻 &emsp; Aprendendo a lidar comm Python <br/><br/>
- 📖 &emsp; Comecei recenetemente uma pós em Engenharia de Software pela [Faculdade Líbano](https://libanoeducacional.com.br/)
+ 👨‍💻 &emsp; Aprendendo a lidar com Python <br/><br/>
+ 📖 &emsp; Pós Graduado em Engenharia de Software na [Faculdade Líbano](https://libanoeducacional.com.br/)
 
 </p>
 
