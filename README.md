@@ -59,19 +59,18 @@ de documentos HTML, auxiliando a consulta de dados da COAD/ICMBio.
 
 `Python` `Automação` `Extração de dados` `HTML`
 
+### 🤖 [FAP-IA](https://github.com/ttusk/fap-ia)
+
+Projeto colaborativo voltado à aplicação de inteligência artificial.
+
+`Inteligência Artificial` `Desenvolvimento colaborativo`
+
 ### ⚖️ [Cavalcanti Advocacia](https://github.com/httplex/cavalcanti-advocacia-web)
 
 Site institucional desenvolvido para apresentar os serviços e fortalecer a
 presença digital de um escritório de advocacia.
 
 `HTML` `CSS` `JavaScript` `Desenvolvimento web`
-
-### 🤖 [Bot DEV Estável](https://github.com/httplex/bot-DEVEstavel)
-
-Bot para Telegram desenvolvido para automatizar interações e tarefas dentro
-de uma comunidade.
-
-`Python` `Telegram Bot` `Automação`
 
 ## Formação
 
@@ -82,5 +81,5 @@ de uma comunidade.
 ---
 
 <p align="center">
-  Aberto a projetos, colaborações e boas conversas sobre tecnologia.
+  Aberto a projetos, colaborações e trocas de card pokémon.
 </p>
