@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Alex Silva 👋</h1>
+<h1 align="center">Olá, eu sou o Alex (aka httplex) </h1>
 
 <p align="center">
   <strong>Desenvolvimento de Software • Automação • Dados</strong>
